@@ -256,12 +256,12 @@ Led technical workshops and hackathons for 200+ students, coordinating volunteer
 # GitHub Insights
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KartikChouhan03&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"/>
+
 <img height="165em" src="https://streak-stats.demolab.com/?user=KartikChouhan03&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikChouhan03&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=86400"/>
+
 </p>
 
 <p align="center">
