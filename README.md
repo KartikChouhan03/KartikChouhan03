@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,40:4C1D95,70:6D28D9,100:7C3AED&text=Kartik%20Chouhan&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,40:4C1D95,70:6D28D9,100:7C3AED&text=Kartik%20Chouhan&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -32,10 +32,10 @@
 
 # Engineering Snapshot
 
-> 🎓 **Education** — B.Tech Information Technology, Manipal University Jaipur · CGPA 8.62
-> 🚀 **Building now** — SmartParkX, an AI-powered smart parking platform (Computer Vision + IoT + Backend)
-> 🧠 **Specialization** — Computer Vision · NLP · REST API Design · Software Architecture
-> 🌱 **Learning** — System Design · Distributed Systems · Docker · Cloud Deployment
+> 🎓 **Education** — B.Tech Information Technology, Manipal University Jaipur · CGPA 8.62<br>
+> 🚀 **Building now** — SmartParkX, an AI-powered smart parking platform (Computer Vision + IoT + Backend)<br>
+> 🧠 **Specialization** — Computer Vision · NLP · REST API Design · Software Architecture<br>
+> 🌱 **Learning** — System Design · Distributed Systems · Docker · Cloud Deployment<br>
 > 🤝 **Open to** — Backend Engineering & SWE Internships · AI/ML Roles · Open Source
 
 ---
@@ -62,7 +62,7 @@ Right now I'm deepening system design and distributed systems fundamentals, and 
 | **Tools** | Git · GitHub · Docker · Linux · Postman |
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,django,fastapi,nodejs,react,vite,postgres,mongodb,mysql,docker,git,github,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,django,fastapi,nodejs,react,postgres,mongodb,mysql,docker,git,github,linux,postman"/>
 </p>
 
 ---
@@ -95,9 +95,13 @@ Five projects, one progression — from full-stack fundamentals to AI-driven sys
 **System Workflow**
 
 ```text
-Vehicle Arrival → ANPR Camera (ESP32-CAM) → YOLOv8 Plate Detection → OCR
-        → Django REST Backend → [Parking Engine | Slot Manager | Billing Engine]
-        → PostgreSQL → React Dashboard
+Vehicle Arrival
+  → ANPR Camera (ESP32-CAM)
+  → YOLOv8 Plate Detection + OCR
+  → Django REST Backend
+  → Parking Engine / Slot Manager / Billing Engine
+  → PostgreSQL
+  → React Dashboard
 ```
 
 **Engineering Highlights**
@@ -133,8 +137,13 @@ Each subsystem — vision, sensors, backend, billing, frontend — runs independ
 **Inference Pipeline**
 
 ```text
-Amazon Product Page → Browser Extension (React) → Review Scraper
-        → Preprocessing → Fine-Tuned DeBERTa-v3 → Trust Score → Analytics Dashboard
+Amazon Product Page
+  → Browser Extension (React)
+  → Review Scraper
+  → Preprocessing
+  → Fine-Tuned DeBERTa-v3
+  → Trust Score
+  → Analytics Dashboard
 ```
 
 **Model Performance**
@@ -247,16 +256,16 @@ Led technical workshops and hackathons for 200+ students, coordinating volunteer
 # GitHub Insights
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KartikChouhan03&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KartikChouhan03&theme=midnight-purple&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=KartikChouhan03&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"/>
+<img height="165em" src="https://streak-stats.demolab.com/?user=KartikChouhan03&theme=midnight-purple&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikChouhan03&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikChouhan03&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikChouhan03&theme=react-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikChouhan03&bg_color=0F172A&color=C4B5FD&line=7C3AED&point=A78BFA&area_color=6D28D9&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
