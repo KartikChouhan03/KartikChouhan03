@@ -243,7 +243,7 @@ Led technical workshops and hackathons for 200+ students, coordinating volunteer
 # Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/u/Kartik_C003/"><img src="https://img.shields.io/badge/LeetCode-Kartik__C003-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Kartik__C003-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
