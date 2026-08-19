@@ -207,19 +207,6 @@ A MERN food delivery platform with JWT authentication, order management, payment
 
 Full stack → backend architecture → computer vision → applied NLP → AI + IoT + backend, integrated.
 
----
-
-<!-- ========================================================= -->
-<!--            LEADERSHIP • ACHIEVEMENTS • LEARNING            -->
-<!-- ========================================================= -->
-
-# Leadership
-
-**Senior Coordinator — LearnIT Technical Club**, Manipal University Jaipur · *Sep 2023 – May 2025*
-
-Led technical workshops and hackathons for 200+ students, coordinating volunteers and faculty to run six major events end-to-end — from planning through execution.
-
----
 
 # Engineering Highlights
 
